@@ -6,7 +6,7 @@ public class test {
 		int i=0;
 		System.out.println("변수 값 i = "+i);
 		//zeus 가 수정
-		System.out.println("i'm Zeus");
+		System.out.println("i'm Zeus"); 
 	}//main
 
 }//class
